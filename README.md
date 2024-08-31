@@ -1,2 +1,4 @@
 # kunaldemo3
-my first git repository
+my first git repository 
+author : kunal kumar
+
